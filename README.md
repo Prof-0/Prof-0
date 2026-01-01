@@ -1,4 +1,4 @@
-<div align="center" width="50">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="18%" />
 
@@ -9,19 +9,23 @@
 
 <br><br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="45%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="45%" />
 
-<details>
-<summary><b>Busy auditing & vibing to</b></summary>
+<br><br>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)
+<img src="https://github-readme-stats.vercel.app/api?username=Prof-0&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Prof-0 Stats" />
 
-</details>
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Prof-0&theme=dark&hide_border=true&background=0D1117" alt="Streak Stats" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-0&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+
+<br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Prof-0&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Prof-0)
-
-[![Telegram](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/your_username)
 
 </div>
 
@@ -36,8 +40,6 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)
-![BurpSuite](https://img.shields.io/badge/Burp%20Suite-black?style=flat)
-![Metasploit](https://img.shields.io/badge/Metasploit-black?style=flat)
 
 ```python
 class Zero(SecurityEngineer):
@@ -45,58 +47,16 @@ class Zero(SecurityEngineer):
     
     skills = {
         "Languages": ["Python", "Go", "C++", "JavaScript", "Bash"],
-        "Domains": ["Pentesting", "Malware Analysis", "Encryption", "Forensics"],
-        "Platforms": ["GNU/Linux", "Windows"],
-        "Tools": ["BurpSuite", "Metasploit", "Wireshark", "Docker", "Git"]
+        "Domains": ["Pentesting", "Malware Analysis", "Encryption"],
+        "Platforms": ["GNU/Linux", "Windows"]
     }
 ```
+🧠 About Me
+🔐 Focused on cyber defense & encryption
 
----
+🧪 Builds tools instead of scripts
 
-## 🧠 About Me
+🐧 GNU/Linux is home
 
-- 🔐 Focused on cyber defense, encryption systems, and attack surface reduction  
-- 🧪 Builds tools instead of scripts  
-- 🕶️ Research-driven, not tutorial-driven  
-- 🐧 GNU/Linux is home  
-- ☕ Debugs faster after midnight  
+<div align="center"> <i>Breaking systems to understand them — securing systems to protect others.</i> </div>
 
----
-
-## 📌 Current Focus
-
-- 🔍 Advanced malware behavior analysis  
-- 🔒 Designing secure containerized systems  
-- 🧠 Researching modern attack chains & zero-day patterns  
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
-
-<details>
-<summary>More</summary>
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-
-</details>
-
-</div>
-
----
-
-## 🔁 Code Cycle
-
-😵‍💫 → 😌 → 😲  
-It works. Don’t ask why.
-
----
-
-<div align="center">
-<i>Breaking systems to understand them — securing systems to protect others.</i>
-</div>
